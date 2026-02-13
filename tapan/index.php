@@ -4,6 +4,7 @@ $preloaderText = "DESIGNING REALITY...";
 include 'includes/header.php';
 include 'includes/navbar.php';
 ?>
+<link rel="stylesheet" href="style.css">
 
     <main class="container">
       <header id="hero" class="hero">
@@ -174,3 +175,4 @@ include 'includes/navbar.php';
     </div>
 
 <?php include 'includes/footer.php'; ?>
+
